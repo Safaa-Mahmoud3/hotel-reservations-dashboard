@@ -125,7 +125,3 @@ CALCULATE(
 ### Pricing Analysis
 ![Pricing](screenshots/pricing.jpg)
 ---
-
----
-
-> *"Data is the new oil — but only if you can refine it."*
